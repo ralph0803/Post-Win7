@@ -11,3 +11,7 @@ Youdao
 Sublime Text 2, notepad++
 
 OBS, skype
+
+MATLAB
+
+Foxit, Adobe Acrobat
