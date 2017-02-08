@@ -14,4 +14,4 @@ OBS, skype
 
 MATLAB
 
-Foxit, Adobe Acrobat
+Foxit, Adobe Acrobat, Libre Office
