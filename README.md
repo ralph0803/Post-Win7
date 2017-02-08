@@ -15,3 +15,7 @@ OBS, skype
 MATLAB
 
 Foxit, Adobe Acrobat, Libre Office
+
+MEGA, Dropbox
+
+TexLive, TexStudio
