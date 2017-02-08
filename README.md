@@ -6,3 +6,8 @@ Calibre
 
 SMplayer, VLC
 
+Youdao
+
+Sublime Text 2, notepad++
+
+OBS, skype
